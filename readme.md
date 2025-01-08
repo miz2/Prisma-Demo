@@ -21,5 +21,5 @@ npx prisma generate
 ## Then simply run it :
 Compile Typescript using tsc-b
 
-## check 
+## Check 
 By nodemon ./dist index.js
